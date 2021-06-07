@@ -1,0 +1,20 @@
+$dark-blue: #00112bff;
+
+.dark-blue {
+    color: $dark-blue;
+}
+
+.bg-dark-blue {
+    background-color: $dark-blue;
+}
+
+.btn-dark-blue {
+    color: white;
+    @extend .bg-dark-blue;
+    transition: all .2s ease-in-out;
+
+    &:hover {
+        opacity: .8;
+        color: white;
+    }
+}
