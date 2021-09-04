@@ -1,9 +1,8 @@
 # Everest
 
-Customizable WordPress blog theme
+Customizable WordPress theme for Blog
 
 ## Requirements
 
-1./ WP Breacrumb plugin [here](https://github.com/eliseekn/wp_breadcrumb)
-2./ yarn or npm (to compile resources)
-3./ A WordPress installation...
+- WP Breacrumb plugin [here](https://github.com/eliseekn/wp_breadcrumb)
+- yarn (to compile resources)
